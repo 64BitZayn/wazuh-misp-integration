@@ -6,7 +6,7 @@ Every time an endpoint starts a process, loads a DLL, opens a network connection
 
 The analyst gets "IoC found in threat intel" with full context, instead of copying hashes into MISP by hand.
 
-<p align="center"><img src="docs/architecture.png" alt="Endpoint sends Sysmon logs to the Wazuh manager, which queries MISP and alerts on a match" width="80%"></p>
+<p align="center"><img src="docs//architecture.png" alt="Endpoint sends Sysmon logs to the Wazuh manager, which queries MISP and alerts on a match" width="80%"></p>
 
 ## What gets checked
 
